@@ -1,5 +1,5 @@
 # project-demo
 This is my first Git repository. 
 <br>
-Author - Saurabh 
+Author - Saurabh Arya
 
